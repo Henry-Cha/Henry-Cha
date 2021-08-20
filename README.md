@@ -4,7 +4,7 @@
   <li>C/C++
   <li>Java - Spring
   <li>Python - Django
-  <li>C#
+  <li>C#</li>
    FrontEnd
    <li>HTML5
      <li>CSS, Bootstrap
