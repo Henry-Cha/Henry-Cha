@@ -5,6 +5,7 @@
 Java, Spring 을 공부하는 백엔드 개발자 차성원입니다.
 
  <a href="mailto:devhenry813@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:devhenry813@gmail.com"> </a>
+  <a href="https://devsungwon.tistory.com/"> <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tstory"> </a>
 
 </div>
 <br/>
