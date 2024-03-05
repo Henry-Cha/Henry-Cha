@@ -24,7 +24,7 @@ Java, Spring 을 공부하는 백엔드 개발자 차성원입니다.
 </br>
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
+![gerrit](https://img.shields.io/badge/Gerrit-005200?&style=for-the-badge&logo=gerrit&logoColor=#EEEEEE)
 </br>
 
 </br>
