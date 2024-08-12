@@ -6,6 +6,7 @@ Java, Spring 을 공부하는 백엔드 개발자 차성원입니다.
 
  <a href="mailto:devhenry813@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:devhenry813@gmail.com"> </a>
   <a href="https://devsungwon.tistory.com/"> <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tstory"> </a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHenry-Cha%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <br/>
